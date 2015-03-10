@@ -1,0 +1,10 @@
+{
+  "name": "UsefulStringMethods",
+  "version": "0.0.0",
+  "description": "UsefulStringMethods",
+  "main": "app.js",
+  "author": {
+    "name": "Daniel",
+    "email": ""
+  }
+}

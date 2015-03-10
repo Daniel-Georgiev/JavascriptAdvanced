@@ -1,0 +1,10 @@
+{
+  "name": "SimulationOOP",
+  "version": "0.0.0",
+  "description": "SimulationOOP",
+  "main": "app.js",
+  "author": {
+    "name": "Daniel",
+    "email": ""
+  }
+}

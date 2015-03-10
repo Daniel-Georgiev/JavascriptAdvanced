@@ -1,0 +1,10 @@
+{
+  "name": "DOmManipulation",
+  "version": "0.0.0",
+  "description": "DOmManipulation",
+  "main": "app.js",
+  "author": {
+    "name": "Daniel",
+    "email": ""
+  }
+}

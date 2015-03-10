@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FunctionArguments", "NodejsConsoleApp1\FunctionArguments.njsproj", "{1E4DC4FB-9B5B-41A8-B3F8-5DB82157807C}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TestTheValueofThis", "TestTheValueofThis\TestTheValueofThis.njsproj", "{DFA037B7-A2E1-4CD3-B017-3D23D6ACA836}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "AddingNumbersUsingFunctions", "AddingNumbersUsingFunctions\AddingNumbersUsingFunctions.njsproj", "{3EB8A414-FAF9-4116-BF99-AA08A76364C2}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DOMTraversal", "DOMTraversal\DOMTraversal.njsproj", "{A6545C5E-60E0-42A2-92E7-D6337FD50341}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "DOMManipulation", "DOmManipulation\DOMManipulation.njsproj", "{EA0303C8-2BC2-42C3-BA62-91BDC2D421A9}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ConsoleModule", "NodejsConsoleApp3\ConsoleModule.njsproj", "{AF7E3A65-0AB6-44B8-BD32-523E8CF25D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E4DC4FB-9B5B-41A8-B3F8-5DB82157807C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4DC4FB-9B5B-41A8-B3F8-5DB82157807C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4DC4FB-9B5B-41A8-B3F8-5DB82157807C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4DC4FB-9B5B-41A8-B3F8-5DB82157807C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA037B7-A2E1-4CD3-B017-3D23D6ACA836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA037B7-A2E1-4CD3-B017-3D23D6ACA836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA037B7-A2E1-4CD3-B017-3D23D6ACA836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA037B7-A2E1-4CD3-B017-3D23D6ACA836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB8A414-FAF9-4116-BF99-AA08A76364C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB8A414-FAF9-4116-BF99-AA08A76364C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB8A414-FAF9-4116-BF99-AA08A76364C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB8A414-FAF9-4116-BF99-AA08A76364C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6545C5E-60E0-42A2-92E7-D6337FD50341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6545C5E-60E0-42A2-92E7-D6337FD50341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6545C5E-60E0-42A2-92E7-D6337FD50341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6545C5E-60E0-42A2-92E7-D6337FD50341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0303C8-2BC2-42C3-BA62-91BDC2D421A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0303C8-2BC2-42C3-BA62-91BDC2D421A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0303C8-2BC2-42C3-BA62-91BDC2D421A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0303C8-2BC2-42C3-BA62-91BDC2D421A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7E3A65-0AB6-44B8-BD32-523E8CF25D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7E3A65-0AB6-44B8-BD32-523E8CF25D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7E3A65-0AB6-44B8-BD32-523E8CF25D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7E3A65-0AB6-44B8-BD32-523E8CF25D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

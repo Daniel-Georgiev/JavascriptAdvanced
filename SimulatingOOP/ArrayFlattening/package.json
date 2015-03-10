@@ -1,0 +1,10 @@
+{
+  "name": "ArrayFlattening",
+  "version": "0.0.0",
+  "description": "ArrayFlattening",
+  "main": "app.js",
+  "author": {
+    "name": "Daniel",
+    "email": ""
+  }
+}
