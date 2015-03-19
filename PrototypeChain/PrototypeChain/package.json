@@ -1,0 +1,10 @@
+{
+  "name": "PrototypeChain",
+  "version": "0.0.0",
+  "description": "PrototypeChain",
+  "main": "app.js",
+  "author": {
+    "name": "Daniel",
+    "email": ""
+  }
+}

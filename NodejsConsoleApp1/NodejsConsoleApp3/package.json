@@ -1,0 +1,10 @@
+{
+  "name": "NodejsConsoleApp3",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp3",
+  "main": "app.js",
+  "author": {
+    "name": "Daniel",
+    "email": ""
+  }
+}

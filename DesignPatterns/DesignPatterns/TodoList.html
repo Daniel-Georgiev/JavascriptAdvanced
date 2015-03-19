@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="app.js"></script>
+</head>
+<body>
+<main>
+    <div>
+        <h1>Tuesday TODO List</h1>
+        <section>
+            <h3>Shopping List</h3>
+            <ul>
+           <li>
+               <input type="checkbox"><label>Air-freshener</label>
+            </li>
+           
+           </ul>
+            <input type="text" placeholder="Add item...">
+            <input type="button" value="Add" onclick="domModule.appendElement(this)">
+        </section>
+                
+        <section>
+            <h3>Business</h3>
+            <ul>
+                <li>
+                    <input type="checkbox"><label>Fire joro</label>
+                </li>
+            </ul>
+            <input type="text" placeholder="Add item...">
+            <input type="button" value="Add" onclick="domModule.appendElement(this)">
+        </section>      
+    </div>
+    <input type="text" placeholder="Title..." id="SectionTitle" />
+    <input type="button" value="Add section"  id="addSectionButton"onclick="domModule.appendSection(this)"/>
+</main>
+</body>
+</html>

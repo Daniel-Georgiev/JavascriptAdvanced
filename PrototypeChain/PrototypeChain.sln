@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Pseudo-ClassicalModel", "PrototypeChain\Pseudo-ClassicalModel.njsproj", "{92E39E11-F13C-40CC-A736-F1F99C32D900}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PrototypalModle", "PrototypalModle\PrototypalModle.njsproj", "{C5DD128F-87AE-40E1-9360-11A64D8B8142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E39E11-F13C-40CC-A736-F1F99C32D900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E39E11-F13C-40CC-A736-F1F99C32D900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E39E11-F13C-40CC-A736-F1F99C32D900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E39E11-F13C-40CC-A736-F1F99C32D900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DD128F-87AE-40E1-9360-11A64D8B8142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DD128F-87AE-40E1-9360-11A64D8B8142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DD128F-87AE-40E1-9360-11A64D8B8142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DD128F-87AE-40E1-9360-11A64D8B8142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "name": "PrototypalModle",
+  "version": "0.0.0",
+  "description": "PrototypalModle",
+  "main": "app.js",
+  "author": {
+    "name": "Daniel",
+    "email": ""
+  }
+}
